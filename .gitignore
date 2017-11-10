@@ -1,1 +1,4 @@
 ﻿bin/*
+bin/Debug/
+
+obj/Debug/
