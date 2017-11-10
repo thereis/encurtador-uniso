@@ -1,1 +1,1 @@
-EncurtadorLink
+Desenvolvido apenas para fins educacionais.
