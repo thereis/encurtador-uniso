@@ -1,7 +1,0 @@
-C:\Users\Votogames\source\repos\EncurtadorLink\EncurtadorLink\bin\Debug\EncurtadorLink.exe.config
-C:\Users\Votogames\source\repos\EncurtadorLink\EncurtadorLink\bin\Debug\EncurtadorLink.exe
-C:\Users\Votogames\source\repos\EncurtadorLink\EncurtadorLink\bin\Debug\EncurtadorLink.pdb
-C:\Users\Votogames\source\repos\EncurtadorLink\EncurtadorLink\obj\Debug\EncurtadorLink.csprojResolveAssemblyReference.cache
-C:\Users\Votogames\source\repos\EncurtadorLink\EncurtadorLink\obj\Debug\EncurtadorLink.csproj.CoreCompileInputs.cache
-C:\Users\Votogames\source\repos\EncurtadorLink\EncurtadorLink\obj\Debug\EncurtadorLink.exe
-C:\Users\Votogames\source\repos\EncurtadorLink\EncurtadorLink\obj\Debug\EncurtadorLink.pdb

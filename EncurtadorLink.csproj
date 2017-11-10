@@ -50,6 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <None Include=".gitignore" />
     <Content Include="uniso.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
